@@ -1,0 +1,11 @@
+{
+  "name": "chess-two",
+  "version": "0.0.0",
+  "description": "An expansive Chess engine",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "H. C. Warburton",
+  "license": "ISC"
+}

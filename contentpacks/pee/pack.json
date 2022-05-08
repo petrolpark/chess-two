@@ -1,0 +1,8 @@
+{
+	"packFormat": 1,
+	"description": "Test for testing purposes.",
+	"build": 1,
+	"dependencies": {
+		"orthochess": 1
+	}
+}

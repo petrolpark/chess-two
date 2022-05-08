@@ -1,0 +1,10 @@
+{
+	"id": "king",
+	"name": "King",
+	"shorthand": "k",
+	"description": "It's a sad display of the patriarchy that if the King is taken, the Game is lost.",
+	"pointValue": 0,
+	"moveSet": "@orthochess:pawnlike",
+	"pieceClass": null,
+	"specialMove": null
+}

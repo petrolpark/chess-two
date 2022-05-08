@@ -1,0 +1,9 @@
+{
+	"id": "pee",
+	"name": "Pee",
+	"shorthand": "p",
+	"pointValue": 52,
+	"moveSet": "@base:immobile",
+	"pieceClass": "Pee",
+	"specialMove": null
+}

@@ -1,0 +1,36 @@
+{
+	"name": "Chess",
+	"description": "Good old plain Chess.",
+	"author": "(Folk)",
+	"contentPacks": [
+		"orthochess"
+	],
+	"players": {
+		"w": {
+			"id": "white",
+			"name": "White",
+			"color": "#000000",
+			"playDirection": "NORTH",
+			"isUserControlled":true
+		},
+		"b": {
+			"id": "black",
+			"name": "Black",
+			"color": "#c0c0c0",
+			"playDirection": "SOUTH",
+			"isUserControlled":true
+		}
+	},
+	"playOrder": "wb",
+	"pieces": {
+		"p": "@orthochess:pawn",
+		"r": "@orthochess:rook",
+		"n": "@orthochess:knight",
+		"b": "@orthochess:bishop",
+		"k": "@orthochess:king",
+		"q": "@orthochess:queen"
+	},
+	"boardWidth": 8,
+	"boardHeight": 8,
+	"board": "br bn bb bk* bq bb bn br bp bp wp bp bp bp bp bp 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 wp wp wp wp wp wp wp wp wr wn wb wk* wq wb wn wr"
+}

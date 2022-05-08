@@ -1,0 +1,10 @@
+{
+	"id": "knight",
+	"name": "Knight",
+	"shorthand": "n",
+	"description": "A noble steed.",
+	"pointValue": 3,
+	"moveSet": "@orthochess:pawnlike",
+	"pieceClass": null,
+	"specialMove": null
+}

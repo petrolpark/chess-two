@@ -1,0 +1,10 @@
+{
+	"id": "bishop",
+	"name": "Bishop",
+	"shorthand": "b",
+	"description": "A man of the cloth.",
+	"pointValue": 3,
+	"moveSet": "@orthochess:pawnlike",
+	"pieceClass": null,
+	"specialMove": null
+}

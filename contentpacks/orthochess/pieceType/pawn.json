@@ -1,0 +1,10 @@
+{
+	"id": "pawn",
+	"name": "Pawn",
+	"shorthand": "p",
+	"description": "A basic infantryman.",
+	"pointValue": 1,
+	"moveSet": "@orthochess:pawnlike",
+	"pieceClass": null,
+	"specialMove": null
+}

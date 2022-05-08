@@ -1,0 +1,14 @@
+{
+	"id": "empty",
+	"name": "Empty",
+	"shorthand": "0",
+	"description": "An empty square, free to fill with your imaginiation.",
+	"pointValue": 0,
+	"moveSet": "@base:immobile",
+	"pieceClass": null,
+	"specialMove": null,
+	"tags": {
+		"isGhostPiece": true,
+		"isUntakeable": true
+	}
+}

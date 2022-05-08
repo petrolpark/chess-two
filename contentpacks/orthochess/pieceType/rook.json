@@ -1,0 +1,10 @@
+{
+	"id": "rook",
+	"name": "Rook",
+	"shorthand": "r",
+	"description": "A fortified... fort.",
+	"pointValue": 5,
+	"moveSet": "@orthochess:pawnlike",
+	"pieceClass": null,
+	"specialMove": null
+}

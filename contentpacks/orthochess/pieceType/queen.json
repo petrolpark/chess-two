@@ -1,0 +1,10 @@
+{
+	"id": "queen",
+	"name": "Queen",
+	"shorthand": "q",
+	"description": "The ultimate girlboss.",
+	"pointValue": 9,
+	"moveSet": "@orthochess:pawnlike",
+	"pieceClass": null,
+	"specialMove": null
+}
